@@ -1,2 +1,2 @@
 # helloTK1
-https://github.com/yz0853/helloTK1/edit/master/README.md
+https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-1-general-rl/
